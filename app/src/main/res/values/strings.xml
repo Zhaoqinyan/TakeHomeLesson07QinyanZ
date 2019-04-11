@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TakeHomeLesson07-QinyanZ</string>
+    <string name="back_to_main_activity">Back to Main Activity</string>
+    <string name="todo">TODO</string>
+    <string name="marshmello">Marshmello</string>
+    <string name="todo">TODO</string>
+    <string name="deadmau5">deadmau5</string>
+    <string name="todo">TODO</string>
+    <string name="zedd">Zedd</string>
+    <string name="todo">TODO</string>
+    <string name="marshmello">Marshmello</string>
+    <string name="start_a_new_activity">Start a New Activity</string>
+</resources>
